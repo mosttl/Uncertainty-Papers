@@ -1,13 +1,13 @@
 # Uncertainty Papers 
-As large language models are inherently probabilistic, uncertainty is a critical factor in their real-world applications. Key research directions include quantifying and assessing uncertainty, strategies for reducing it, and methods for effectively managing it. This repository curates an up-to-date collection of research papers focused on the latest advancements in uncertainty within large language models, as well as in deep learning more broadly.
+🔥 As large language models (LLMs) are inherently probabilistic, uncertainty is a critical factor in their real-world applications. Key research directions include quantifying and assessing uncertainty, strategies for reducing it, and methods for effectively managing it. This repository curates an up-to-date collection of research papers focused on the latest advancements in uncertainty within LLMs, as well as in deep learning more broadly.
 
-## 目录
+## Table of Content
 
-- [deep learning ](#Uncertainty papers for deep learning )
-- [LLMs](#Uncertainty papers for LLMs)
-- [Agents](#Uncertainty papers for Agents)
+- [Deep Learning](#Uncertainty-Papers-for-Deep-Learning)
+- [LLMs](#Uncertainty-Papers-for-LLMs)
+- [Agents](#Uncertainty-Papers-for-Agents)
 
-## Uncertainty papers for deep learning 
+## Uncertainty Papers for Deep Learning 
 ### Survey Papers
 1. A Survey of Uncertainty in Deep Neural Networks, 2021, [PDF](https://arxiv.org/pdf/2107.03342)
 2. A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges, 2021, [PDF](https://arxiv.org/pdf/2011.06225)
@@ -27,7 +27,7 @@ As large language models are inherently probabilistic, uncertainty is a critical
 3. Uncertainty Estimation of Transformer Predictions for Misclassification Detection, ACL, 2022, [PDF](https://aclanthology.org/2022.acl-long.566.pdf)
 4. Reducing conversational agents' overconfidence through linguistic calibration, TACL, 2022, [PDF](https://aclanthology.org/2022.tacl-1.50.pdf)
 
-## Uncertainty papers for LLMs
+## Uncertainty Papers for LLMs
 ### Survey Papers
 1. A Survey of Confidence Estimation and Calibration in Large Language Models, 2024, [PDF](https://arxiv.org/pdf/2311.08298)
 2. A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice, 2024, [PDF](https://arxiv.org/pdf/2410.15326)
@@ -54,5 +54,6 @@ As large language models are inherently probabilistic, uncertainty is a critical
 4. To Believe or Not to Believe Your LLM
 5. SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales
 
-## Uncertainty papers for Agents
+## Uncertainty Papers for Agents
+### Uncertainty Quantification/Estimation
 
