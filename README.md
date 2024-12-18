@@ -1,5 +1,5 @@
 # Uncertainty Papers 
-🔥 As large language models (LLMs) are inherently probabilistic, uncertainty is a critical factor in their real-world applications. Key research directions include quantifying and assessing uncertainty, strategies for reducing it, and methods for effectively managing it. This repository curates an up-to-date collection of research papers focused on the latest advancements in uncertainty within LLMs, as well as in deep learning more broadly.
+🔥 As large language models (LLMs) are inherently probabilistic, uncertainty is a critical factor in their real-world applications. Key research directions include quantifying and assessing uncertainty, strategies for reducing it, and methods for effectively managing it. This repository curates an up-to-date collection of research papers focused on the latest advancements in uncertainty within LLMs and Agents, as well as in deep learning more broadly.
 
 ## Table of Content
 - [Deep Learning](#Uncertainty-Papers-for-Deep-Learning)
