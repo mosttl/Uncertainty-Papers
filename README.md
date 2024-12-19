@@ -62,3 +62,5 @@
 ### Uncertainty Handling/Utilization
 1. Towards Uncertainty-Aware Language Agent, ACL findings 2024, [PDF](https://aclanthology.org/2024.findings-acl.398.pdf)
 
+## Contributing
+This is an active repository, and your contributions are always welcome! Please feel free to notify us if any important papers are missing.
