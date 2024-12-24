@@ -29,10 +29,11 @@
 
 ## Uncertainty Papers for LLMs
 ### Survey Papers
-1. A Survey of Confidence Estimation and Calibration in Large Language Models, arXiv 2024, [PDF](https://arxiv.org/pdf/2311.08298)
-2. A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice, arXiv 2024, [PDF](https://arxiv.org/pdf/2410.15326)
-3. Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach, arXiv 2024, [PDF](https://arxiv.org/pdf/2404.15993)
-4. Rethinking the Uncertainty: A Critical Review and Analysis in the Era of Large Language Models, arXiv 2024, [PDF](https://arxiv.org/pdf/2410.20199)
+1. Uncertainty in Natural Language Processing: Sources, Quantification, and Applications, arXiv 2023, [PDF](https://arxiv.org/pdf/2306.04459)
+2.  A Survey of Confidence Estimation and Calibration in Large Language Models, arXiv 2024, [PDF](https://arxiv.org/pdf/2311.08298)
+3. A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice, arXiv 2024, [PDF](https://arxiv.org/pdf/2410.15326)
+4. Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach, arXiv 2024, [PDF](https://arxiv.org/pdf/2404.15993)
+5. Rethinking the Uncertainty: A Critical Review and Analysis in the Era of Large Language Models, arXiv 2024, [PDF](https://arxiv.org/pdf/2410.20199)
 
 ### Uncertainty Quantification/Estimation
 1. Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation, ICLR 2023, [PDF](https://arxiv.org/pdf/2302.09664)
