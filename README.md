@@ -38,7 +38,7 @@
 1. Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation, ICLR 2023, [PDF](https://arxiv.org/pdf/2302.09664)
 2. Look Before You Leap: An Exploratory Study of Uncertainty Measurement for Large Language Models, arXiv 2023, [PDF](https://arxiv.org/pdf/2307.10236)
 3. What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability, EMNLP 2023, [PDF](https://aclanthology.org/2023.emnlp-main.887.pdf)
-4. Generating with Confidence: Uncertainty Quantification for Black-box Large Language Models, TMLR 2024, [PDF](https://arxiv.org/pdf/2305.19187)
+4. Generating with Confidence: Uncertainty Quantification for Black-box Large Language Models, TMLR 2024, [PDF](https://arxiv.org/pdf/2305.19187), [Code](https://github.com/zlin7/UQ-NLG)
 5. Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities, 2024, [PDF](https://arxiv.org/pdf/2405.20003)
 6. Uncertainty Quantification for In-Context Learning of Large Language Models, NAACL 2024, [PDF](https://aclanthology.org/2024.naacl-long.184.pdf)
 7. Quantifying Uncertainty in Natural Language Explanations of Large Language Models, AISTATS 2024, [PDF](https://proceedings.mlr.press/v238/harsha-tanneru24a/harsha-tanneru24a.pdf)
