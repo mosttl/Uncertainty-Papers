@@ -36,14 +36,15 @@
 
 ### Uncertainty Quantification/Estimation
 1. Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation, ICLR 2023, [PDF](https://arxiv.org/pdf/2302.09664)
-9. Look Before You Leap: An Exploratory Study of Uncertainty Measurement for Large Language Models, arXiv 2023, [PDF](https://arxiv.org/pdf/2307.10236)
-2. Generating with Confidence: Uncertainty Quantification for Black-box Large Language Models, TMLR 2024, [PDF](https://arxiv.org/pdf/2305.19187)
-3. Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities, 2024, [PDF](https://arxiv.org/pdf/2405.20003)
-4. Uncertainty Quantification for In-Context Learning of Large Language Models, NAACL 2024, [PDF](https://aclanthology.org/2024.naacl-long.184.pdf)
-5. Quantifying Uncertainty in Natural Language Explanations of Large Language Models, AISTATS 2024, [PDF](https://proceedings.mlr.press/v238/harsha-tanneru24a/harsha-tanneru24a.pdf)
-6. DiverseAgentEntropy: Quantifying Black-Box LLM Uncertainty through Diverse Perspectives and Multi-Agent Interaction, 2024, [PDF](https://arxiv.org/pdf/2412.09572)
-7. Benchmarking LLMs via Uncertainty Quantification, NeurIPS 2024, [PDF](https://openreview.net/pdf?id=L0oSfTroNE)
-8. Black-box Uncertainty Quantification Method for LLM-as-a-Judge, arXiv 2024, [PDF](https://arxiv.org/pdf/2410.11594)
+2. Look Before You Leap: An Exploratory Study of Uncertainty Measurement for Large Language Models, arXiv 2023, [PDF](https://arxiv.org/pdf/2307.10236)
+3. What Comes Next? Evaluating Uncertainty in Neural Text Generators Against Human Production Variability, EMNLP 2023, [PDF](https://aclanthology.org/2023.emnlp-main.887.pdf)
+4. Generating with Confidence: Uncertainty Quantification for Black-box Large Language Models, TMLR 2024, [PDF](https://arxiv.org/pdf/2305.19187)
+5. Kernel Language Entropy: Fine-grained Uncertainty Quantification for LLMs from Semantic Similarities, 2024, [PDF](https://arxiv.org/pdf/2405.20003)
+6. Uncertainty Quantification for In-Context Learning of Large Language Models, NAACL 2024, [PDF](https://aclanthology.org/2024.naacl-long.184.pdf)
+7. Quantifying Uncertainty in Natural Language Explanations of Large Language Models, AISTATS 2024, [PDF](https://proceedings.mlr.press/v238/harsha-tanneru24a/harsha-tanneru24a.pdf)
+8. DiverseAgentEntropy: Quantifying Black-Box LLM Uncertainty through Diverse Perspectives and Multi-Agent Interaction, 2024, [PDF](https://arxiv.org/pdf/2412.09572)
+9. Benchmarking LLMs via Uncertainty Quantification, NeurIPS 2024, [PDF](https://openreview.net/pdf?id=L0oSfTroNE)
+10. Black-box Uncertainty Quantification Method for LLM-as-a-Judge, arXiv 2024, [PDF](https://arxiv.org/pdf/2410.11594)
 11. Experts Don't Cheat: Learning What You Don't Know By Predicting Pairs, ICML 2024, [PDF](https://openreview.net/pdf/9cf59fde42aece4313abd28a189ffa842e439598.pdf)
 12. MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty, arXiv 2024, [PDF](https://www.arxiv.org/pdf/2408.06816)
    
