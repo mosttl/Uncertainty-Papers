@@ -32,8 +32,7 @@
 1. Uncertainty in Natural Language Processing: Sources, Quantification, and Applications, arXiv 2023, [PDF](https://arxiv.org/pdf/2306.04459)
 2.  A Survey of Confidence Estimation and Calibration in Large Language Models, arXiv 2024, [PDF](https://arxiv.org/pdf/2311.08298)
 3. A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice, arXiv 2024, [PDF](https://arxiv.org/pdf/2410.15326)
-4. Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach, arXiv 2024, [PDF](https://arxiv.org/pdf/2404.15993)
-5. Rethinking the Uncertainty: A Critical Review and Analysis in the Era of Large Language Models, arXiv 2024, [PDF](https://arxiv.org/pdf/2410.20199)
+4. Rethinking the Uncertainty: A Critical Review and Analysis in the Era of Large Language Models, arXiv 2024, [PDF](https://arxiv.org/pdf/2410.20199)
 
 ### Uncertainty Quantification/Estimation
 1. Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation, ICLR 2023, [PDF](https://arxiv.org/pdf/2302.09664)
@@ -48,6 +47,7 @@
 10. Black-box Uncertainty Quantification Method for LLM-as-a-Judge, arXiv 2024, [PDF](https://arxiv.org/pdf/2410.11594)
 11. Experts Don't Cheat: Learning What You Don't Know By Predicting Pairs, ICML 2024, [PDF](https://openreview.net/pdf/9cf59fde42aece4313abd28a189ffa842e439598.pdf)
 12. MAQA: Evaluating Uncertainty Quantification in LLMs Regarding Data Uncertainty, arXiv 2024, [PDF](https://www.arxiv.org/pdf/2408.06816)
+13. Uncertainty Estimation and Quantification for LLMs: A Simple Supervised Approach, arXiv 2024, [PDF](https://arxiv.org/pdf/2404.15993)
    
 ### Uncertainty Handling/Utilization
 1. Language Models (Mostly) Know What They Know, arXiv 2022, [PDF](https://arxiv.org/pdf/2207.05221)
